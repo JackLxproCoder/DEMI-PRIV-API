@@ -22,7 +22,7 @@
     "http",
     "websocket"
   ],
-  "author": "PRIV-DEMI Team",
+  "author": "Pinoy Net-Killers",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.0",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/priv-demi-api.git"
+    "url": "https://github.com/JackLxproCoder/DEMI-PRIV-API.git"
   }
 }
